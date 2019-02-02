@@ -1,0 +1,325 @@
+################# Start of  0 Iteration
+########################## For n =  500 ############################
+Time Required For Merge: 0.007896524000000002
+Time Required For Quick: 0.004230089999999999
+Time Required Insertion: 0.026698337999999995
+Time Required Quick with Median: 0.003987878
+########################## For n =  1000 ############################
+Time Required For Merge: 0.022721543999999996
+Time Required For Quick: 0.009889230999999998
+Time Required Insertion: 0.09692793
+Time Required Quick with Median: 0.005051559000000011
+########################## For n =  2000 ############################
+Time Required For Merge: 0.02934748100000001
+Time Required For Quick: 0.017703648999999988
+Time Required Insertion: 0.26412034799999995
+Time Required Quick with Median: 0.009878558000000037
+########################## For n =  4000 ############################
+Time Required For Merge: 0.051074313999999954
+Time Required For Quick: 0.02139512499999996
+Time Required Insertion: 1.190095826
+Time Required Quick with Median: 0.030490803999999816
+########################## For n =  5000 ############################
+Time Required For Merge: 0.10584133399999995
+Time Required For Quick: 0.0403077810000001
+Time Required Insertion: 1.882631835
+Time Required Quick with Median: 0.02681328599999988
+########################## For n =  10000 ############################
+Time Required For Merge: 0.14449837899999984
+Time Required For Quick: 0.05449771299999995
+Time Required Insertion: 6.800517431000001
+Time Required Quick with Median: 0.05690382399999905
+########################## For n =  20000 ############################
+Time Required For Merge: 0.3060312449999998
+Time Required For Quick: 0.11946842999999951
+Time Required Insertion: 31.667996233
+Time Required Quick with Median: 0.12740436500000385
+########################## For n =  30000 ############################
+Time Required For Merge: 0.5135412959999996
+Time Required For Quick: 0.18908469299999808
+Time Required Insertion: 62.435892625
+Time Required Quick with Median: 0.17897993399999734
+########################## For n =  40000 ############################
+Time Required For Merge: 0.706848278999999
+Time Required For Quick: 0.2449297630000018
+Time Required Insertion: 127.71163833
+Time Required Quick with Median: 0.28231129399998167
+########################## For n =  50000 ############################
+Time Required For Merge: 1.0506736369999885
+Time Required For Quick: 0.36719800099999134
+Time Required Insertion: 206.35773038199997
+Time Required Quick with Median: 0.3721838740000294
+################# Start of  1 Iteration
+########################## For n =  500 ############################
+Time Required For Merge: 0.007896524000000002
+Time Required For Quick: 0.004230089999999999
+Time Required Insertion: 0.026698337999999995
+Time Required Quick with Median: 0.003987878
+########################## For n =  1000 ############################
+Time Required For Merge: 0.022721543999999996
+Time Required For Quick: 0.009889230999999998
+Time Required Insertion: 0.09692793
+Time Required Quick with Median: 0.005051559000000011
+########################## For n =  2000 ############################
+Time Required For Merge: 0.02934748100000001
+Time Required For Quick: 0.017703648999999988
+Time Required Insertion: 0.26412034799999995
+Time Required Quick with Median: 0.009878558000000037
+########################## For n =  4000 ############################
+Time Required For Merge: 0.051074313999999954
+Time Required For Quick: 0.02139512499999996
+Time Required Insertion: 1.190095826
+Time Required Quick with Median: 0.030490803999999816
+########################## For n =  5000 ############################
+Time Required For Merge: 0.10584133399999995
+Time Required For Quick: 0.0403077810000001
+Time Required Insertion: 1.882631835
+Time Required Quick with Median: 0.02681328599999988
+########################## For n =  10000 ############################
+Time Required For Merge: 0.14449837899999984
+Time Required For Quick: 0.05449771299999995
+Time Required Insertion: 6.800517431000001
+Time Required Quick with Median: 0.05690382399999905
+########################## For n =  20000 ############################
+Time Required For Merge: 0.3060312449999998
+Time Required For Quick: 0.11946842999999951
+Time Required Insertion: 31.667996233
+Time Required Quick with Median: 0.12740436500000385
+########################## For n =  30000 ############################
+Time Required For Merge: 0.5135412959999996
+Time Required For Quick: 0.18908469299999808
+Time Required Insertion: 62.435892625
+Time Required Quick with Median: 0.17897993399999734
+########################## For n =  40000 ############################
+Time Required For Merge: 0.706848278999999
+Time Required For Quick: 0.2449297630000018
+Time Required Insertion: 127.71163833
+Time Required Quick with Median: 0.28231129399998167
+########################## For n =  50000 ############################
+Time Required For Merge: 1.0506736369999885
+Time Required For Quick: 0.36719800099999134
+Time Required Insertion: 206.35773038199997
+Time Required Quick with Median: 0.3721838740000294
+################# Start of  2 Iteration
+########################## For n =  500 ############################
+Time Required For Merge: 0.007896524000000002
+Time Required For Quick: 0.004230089999999999
+Time Required Insertion: 0.026698337999999995
+Time Required Quick with Median: 0.003987878
+########################## For n =  1000 ############################
+Time Required For Merge: 0.022721543999999996
+Time Required For Quick: 0.009889230999999998
+Time Required Insertion: 0.09692793
+Time Required Quick with Median: 0.005051559000000011
+########################## For n =  2000 ############################
+Time Required For Merge: 0.02934748100000001
+Time Required For Quick: 0.017703648999999988
+Time Required Insertion: 0.26412034799999995
+Time Required Quick with Median: 0.009878558000000037
+########################## For n =  4000 ############################
+Time Required For Merge: 0.051074313999999954
+Time Required For Quick: 0.02139512499999996
+Time Required Insertion: 1.190095826
+Time Required Quick with Median: 0.030490803999999816
+########################## For n =  5000 ############################
+Time Required For Merge: 0.10584133399999995
+Time Required For Quick: 0.0403077810000001
+Time Required Insertion: 1.882631835
+Time Required Quick with Median: 0.02681328599999988
+########################## For n =  10000 ############################
+Time Required For Merge: 0.14449837899999984
+Time Required For Quick: 0.05449771299999995
+Time Required Insertion: 6.800517431000001
+Time Required Quick with Median: 0.05690382399999905
+########################## For n =  20000 ############################
+Time Required For Merge: 0.3060312449999998
+Time Required For Quick: 0.11946842999999951
+Time Required Insertion: 31.667996233
+Time Required Quick with Median: 0.12740436500000385
+########################## For n =  30000 ############################
+Time Required For Merge: 0.5135412959999996
+Time Required For Quick: 0.18908469299999808
+Time Required Insertion: 62.435892625
+Time Required Quick with Median: 0.17897993399999734
+########################## For n =  40000 ############################
+Time Required For Merge: 0.706848278999999
+Time Required For Quick: 0.2449297630000018
+Time Required Insertion: 127.71163833
+Time Required Quick with Median: 0.28231129399998167
+########################## For n =  50000 ############################
+Time Required For Merge: 1.0506736369999885
+Time Required For Quick: 0.36719800099999134
+Time Required Insertion: 206.35773038199997
+Time Required Quick with Median: 0.3721838740000294
+################# Start of  3 Iteration
+########################## For n =  500 ############################
+Time Required For Merge: 0.007896524000000002
+Time Required For Quick: 0.004230089999999999
+Time Required Insertion: 0.026698337999999995
+Time Required Quick with Median: 0.003987878
+########################## For n =  1000 ############################
+Time Required For Merge: 0.022721543999999996
+Time Required For Quick: 0.009889230999999998
+Time Required Insertion: 0.09692793
+Time Required Quick with Median: 0.005051559000000011
+########################## For n =  2000 ############################
+Time Required For Merge: 0.02934748100000001
+Time Required For Quick: 0.017703648999999988
+Time Required Insertion: 0.26412034799999995
+Time Required Quick with Median: 0.009878558000000037
+########################## For n =  4000 ############################
+Time Required For Merge: 0.051074313999999954
+Time Required For Quick: 0.02139512499999996
+Time Required Insertion: 1.190095826
+Time Required Quick with Median: 0.030490803999999816
+########################## For n =  5000 ############################
+Time Required For Merge: 0.10584133399999995
+Time Required For Quick: 0.0403077810000001
+Time Required Insertion: 1.882631835
+Time Required Quick with Median: 0.02681328599999988
+########################## For n =  10000 ############################
+Time Required For Merge: 0.14449837899999984
+Time Required For Quick: 0.05449771299999995
+Time Required Insertion: 6.800517431000001
+Time Required Quick with Median: 0.05690382399999905
+########################## For n =  20000 ############################
+Time Required For Merge: 0.3060312449999998
+Time Required For Quick: 0.11946842999999951
+Time Required Insertion: 31.667996233
+Time Required Quick with Median: 0.12740436500000385
+########################## For n =  30000 ############################
+Time Required For Merge: 0.5135412959999996
+Time Required For Quick: 0.18908469299999808
+Time Required Insertion: 62.435892625
+Time Required Quick with Median: 0.17897993399999734
+########################## For n =  40000 ############################
+Time Required For Merge: 0.706848278999999
+Time Required For Quick: 0.2449297630000018
+Time Required Insertion: 127.71163833
+Time Required Quick with Median: 0.28231129399998167
+########################## For n =  50000 ############################
+Time Required For Merge: 1.0506736369999885
+Time Required For Quick: 0.36719800099999134
+Time Required Insertion: 206.35773038199997
+Time Required Quick with Median: 0.3721838740000294
+################# Start of  4 Iteration
+########################## For n =  500 ############################
+Time Required For Merge: 0.007896524000000002
+Time Required For Quick: 0.004230089999999999
+Time Required Insertion: 0.026698337999999995
+Time Required Quick with Median: 0.003987878
+########################## For n =  1000 ############################
+Time Required For Merge: 0.022721543999999996
+Time Required For Quick: 0.009889230999999998
+Time Required Insertion: 0.09692793
+Time Required Quick with Median: 0.005051559000000011
+########################## For n =  2000 ############################
+Time Required For Merge: 0.02934748100000001
+Time Required For Quick: 0.017703648999999988
+Time Required Insertion: 0.26412034799999995
+Time Required Quick with Median: 0.009878558000000037
+########################## For n =  4000 ############################
+Time Required For Merge: 0.051074313999999954
+Time Required For Quick: 0.02139512499999996
+Time Required Insertion: 1.190095826
+Time Required Quick with Median: 0.030490803999999816
+########################## For n =  5000 ############################
+Time Required For Merge: 0.10584133399999995
+Time Required For Quick: 0.0403077810000001
+Time Required Insertion: 1.882631835
+Time Required Quick with Median: 0.02681328599999988
+########################## For n =  10000 ############################
+Time Required For Merge: 0.14449837899999984
+Time Required For Quick: 0.05449771299999995
+Time Required Insertion: 6.800517431000001
+Time Required Quick with Median: 0.05690382399999905
+########################## For n =  20000 ############################
+Time Required For Merge: 0.3060312449999998
+Time Required For Quick: 0.11946842999999951
+Time Required Insertion: 31.667996233
+Time Required Quick with Median: 0.12740436500000385
+########################## For n =  30000 ############################
+Time Required For Merge: 0.5135412959999996
+Time Required For Quick: 0.18908469299999808
+Time Required Insertion: 62.435892625
+Time Required Quick with Median: 0.17897993399999734
+########################## For n =  40000 ############################
+Time Required For Merge: 0.706848278999999
+Time Required For Quick: 0.2449297630000018
+Time Required Insertion: 127.71163833
+Time Required Quick with Median: 0.28231129399998167
+########################## For n =  50000 ############################
+Time Required For Merge: 1.0506736369999885
+Time Required For Quick: 0.36719800099999134
+Time Required Insertion: 206.35773038199997
+Time Required Quick with Median: 0.3721838740000294
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 500
+Insertion Sort :- 0.026698337999999995
+Merge Sort :- 0.007896524000000002
+Quick Sort :- 0.004230089999999999
+Quick With Median Sort :- 0.003987878
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 1000
+Insertion Sort :- 0.09692793
+Merge Sort :- 0.022721543999999996
+Quick Sort :- 0.009889230999999998
+Quick With Median Sort :- 0.005051559000000011
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 2000
+Insertion Sort :- 0.26412034799999995
+Merge Sort :- 0.02934748100000001
+Quick Sort :- 0.017703648999999988
+Quick With Median Sort :- 0.009878558000000037
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 4000
+Insertion Sort :- 1.190095826
+Merge Sort :- 0.051074313999999954
+Quick Sort :- 0.02139512499999996
+Quick With Median Sort :- 0.030490803999999816
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 5000
+Insertion Sort :- 1.8826318350000002
+Merge Sort :- 0.10584133399999995
+Quick Sort :- 0.0403077810000001
+Quick With Median Sort :- 0.02681328599999988
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 10000
+Insertion Sort :- 6.800517431000001
+Merge Sort :- 0.14449837899999984
+Quick Sort :- 0.05449771299999995
+Quick With Median Sort :- 0.05690382399999905
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 20000
+Insertion Sort :- 31.667996233000004
+Merge Sort :- 0.3060312449999998
+Quick Sort :- 0.11946842999999951
+Quick With Median Sort :- 0.12740436500000385
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 30000
+Insertion Sort :- 62.435892624999994
+Merge Sort :- 0.5135412959999996
+Quick Sort :- 0.18908469299999808
+Quick With Median Sort :- 0.17897993399999734
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 40000
+Insertion Sort :- 127.71163833
+Merge Sort :- 0.706848278999999
+Quick Sort :- 0.2449297630000018
+Quick With Median Sort :- 0.28231129399998167
+
+...........................Final Output...............................
+Avg Time for Different Sorting Techniques for n= 50000
+Insertion Sort :- 206.35773038199994
+Merge Sort :- 1.0506736369999885
+Quick Sort :- 0.36719800099999134
+Quick With Median Sort :- 0.3721838740000294

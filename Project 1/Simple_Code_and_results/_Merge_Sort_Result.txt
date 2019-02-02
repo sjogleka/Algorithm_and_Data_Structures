@@ -1,0 +1,5 @@
+C:\Python\Python37\python.exe C:/Users/sumedh_4594/PycharmProjects/Algo/insertionSort.py
+Input for Insertion Sort [3, 65, 55, 112, 90, 45, 0, 12, 6, 2, 99]
+After Applying Insertion Sort [0, 2, 3, 6, 12, 45, 55, 65, 90, 99, 112]
+
+Process finished with exit code 0

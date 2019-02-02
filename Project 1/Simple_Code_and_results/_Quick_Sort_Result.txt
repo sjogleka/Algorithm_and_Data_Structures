@@ -1,0 +1,7 @@
+C:\Python\Python37\python.exe C:/Users/sumedh_4594/PycharmProjects/Algo/quickSort.py
+Before Quick Sort  [3, 65, 55, 112, 90, 45, 0, 12, 6, 2, 99]
+Sorted Output Using Quick Sort
+[0, 2, 3, 6, 12, 45, 55, 65, 90, 99, 112]
+Time Required : 0.00016503200000000245
+
+Process finished with exit code 0
